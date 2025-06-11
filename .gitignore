@@ -1,0 +1,9 @@
+.git
+go.sum
+*.exe
+.idea
+.vscode
+.windsurf
+
+.DS_Store
+Thumbs.db
